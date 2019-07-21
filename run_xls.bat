@@ -1,0 +1,1 @@
+scrapy crawl proxies -t excel -o proxies.xls
