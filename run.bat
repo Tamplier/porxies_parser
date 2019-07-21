@@ -1,0 +1,1 @@
+scrapy crawl proxies -o proxies.csv
